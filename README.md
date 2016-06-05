@@ -3,7 +3,7 @@
 Android sample demonstrate how to implement Google Place API
 
 # Demo
-![ScreenShot](http://zupimages.net/up/16/22/r65d.gif)
+![ScreenShot](http://zupimages.net/up/16/22/x0lv.gif)
 
 # License
 Copyright 2015 The Android Open Source Project, Inc.
