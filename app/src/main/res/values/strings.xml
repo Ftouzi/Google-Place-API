@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GooglePlace API Sample</string>
+    <string name="address">Enter an address..</string>
+</resources>
+
